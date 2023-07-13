@@ -1,0 +1,17 @@
+body {
+    background-color: #ebf2ff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-primary {
+    border-radius: 8px;
+}
+
+.input-group {
+    justify-content: center;
+    width: 80%;
+}
+
+.modal-title {
+    font-weight: bold;
+}
